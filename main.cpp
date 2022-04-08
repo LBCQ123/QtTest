@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
     qDebug() << express->Interpret(map);
 
     delete express;
-    qDebug("over,hello233");
+    qDebug("over,hello234444");
     return a.exec();
 }
 
